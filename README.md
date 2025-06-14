@@ -30,3 +30,9 @@ run
 run
 
     python rnn.py
+
+如果想运行RNN-pruned
+
+run
+
+    python test.py
